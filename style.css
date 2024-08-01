@@ -17,6 +17,9 @@ ul {
 
 .hero {
     display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .header {
@@ -35,7 +38,7 @@ ul {
     padding-right: 160px;
 }
 
-button, .callToAction {
+button, .action {
     background-color: #3882f6;
 }
 
@@ -63,4 +66,6 @@ button {
     height: 100px;
     width: 200px;
     background-color: grey;
+    flex-shrink: 0;
+    max-width: 100%;
 }
