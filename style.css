@@ -2,8 +2,13 @@ body{
     margin: 0;
 }
 
+.header {
+
+}
+
 .header, .hero, .footer {
     background-color: #1f2937;
+    color: #F9FAF8;
 }
 
 button, .callToAction {
