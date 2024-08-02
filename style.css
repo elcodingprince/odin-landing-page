@@ -17,6 +17,12 @@ ul {
 
 .hero {
     display: flex;
+    padding-bottom: 32px;
+    margin: 0;
+}
+
+.content {
+    margin: 0;
 }
 
 .header {
@@ -54,6 +60,7 @@ button {
 .hero p {
     font-size: 18px;
     color: #e5e7eb;
+    margin: 0;
 }
 
 .hero .main {
