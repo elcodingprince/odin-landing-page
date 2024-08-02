@@ -17,8 +17,9 @@ ul {
 
 .hero {
     display: flex;
-    padding-bottom: 32px;
-    margin: 0;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    
 }
 
 .content {
@@ -31,7 +32,7 @@ ul {
 }
 
 .header h2 {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .header, .hero, .footer {
@@ -65,7 +66,7 @@ button {
 
 .hero .main {
     color: #F9FAF8;
-    font-size: 38px;
+    font-size: 28px;
     font-weight: 600;
 }
 
