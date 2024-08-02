@@ -82,3 +82,9 @@ button {
     background-color: red;
     max-width: 100%;
 }
+
+.card div {
+    height: 100px;
+    width: 100px;
+    border: #3882f6;
+}
