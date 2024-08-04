@@ -85,12 +85,9 @@ button {
     max-width: 100%;
 }
 
-.card div {
+.card {
     height: 100px;
     width: 100px;
-    border: #3882f6;
-}
-
-div.information {
-    color: pink;
+    border: 2px solid #3882f6;
+    border-radius: 4px;
 }
