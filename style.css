@@ -15,6 +15,7 @@ ul {
     gap: 16px;
 }
 
+
 .hero {
     display: flex;
     padding-bottom: 76px;
@@ -66,8 +67,8 @@ button {
 }
 
 .hero .main {
-    color: #F9FAF8;
-    font-size: 28px;
+    color: #e5e7eb;
+    font-size: 36px;
     font-weight: 600;
 }
 
@@ -88,4 +89,8 @@ button {
     height: 100px;
     width: 100px;
     border: #3882f6;
+}
+
+div.information {
+    color: pink;
 }
