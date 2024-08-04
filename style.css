@@ -85,6 +85,14 @@ button {
     max-width: 100%;
 }
 
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 32px 120px 40px 120px;
+}
+
 .cards {
     display: flex;
 }
