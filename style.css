@@ -97,7 +97,7 @@ button {
     display: flex;
 }
 
-.card {
+.card .box{
     height: 100px;
     width: 100px;
     border: 2px solid #3882f6;
