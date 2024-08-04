@@ -15,7 +15,6 @@ ul {
     gap: 16px;
 }
 
-
 .hero {
     display: flex;
     padding-bottom: 76px;
@@ -24,7 +23,6 @@ ul {
 }
 
 .content {
-    margin: 0;
     padding-right: 16px;
 }
 
@@ -132,4 +130,10 @@ button {
 .text {
     font-size: 12px;
     text-align: center;
+}
+
+.action {
+    margin: 56px 120px 56px 120px;
+    border-radius: 8px;
+    height: 100px;
 }
