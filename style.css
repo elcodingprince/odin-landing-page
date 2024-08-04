@@ -95,6 +95,12 @@ button {
 
 .cards {
     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    max-width: 100px;
 }
 
 .card .box{
