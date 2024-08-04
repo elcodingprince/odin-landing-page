@@ -85,9 +85,13 @@ button {
     max-width: 100%;
 }
 
+.cards {
+    display: flex;
+}
+
 .card {
     height: 100px;
     width: 100px;
     border: 2px solid #3882f6;
-    border-radius: 4px;
+    border-radius: 8px;
 }
