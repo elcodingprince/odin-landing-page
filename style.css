@@ -137,6 +137,8 @@ button {
     border-radius: 8px;
     height: 100px;
     color: white;
+    display: flex;
+    align-items: center;
 }
 
 .whiteBorderButton {
@@ -154,8 +156,10 @@ button {
 }
 
 .container {
+    display: flex;
+
 }
 
 .left-side {
-    margin: 0;
+
 }
