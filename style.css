@@ -157,8 +157,11 @@ button {
 
 .container {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 72px;
 }
 
-.left-side {
+.right-side {
 
 }
