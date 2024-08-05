@@ -137,9 +137,6 @@ button {
     border-radius: 8px;
     height: 100px;
     color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .whiteBorderButton {
@@ -157,18 +154,8 @@ button {
 }
 
 .container {
-    display: flex;
-    align-items: center;
 }
 
 .left-side {
     margin: 0;
-    padding: 52px;
-    align-items: center;
-}
-
-.right-side {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
