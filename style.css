@@ -142,3 +142,26 @@ button {
 .whiteBorderButton {
     border: 1px solid #F9FAF8;
 }
+
+.action p {
+    font-size: 12px;
+    margin: 0;
+}
+
+.action h3 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.left-side {
+    margin: 0;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+}
