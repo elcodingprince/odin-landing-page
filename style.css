@@ -139,3 +139,6 @@ button {
     color: white;
 }
 
+.whiteBorderButton {
+    border: 1px solid #F9FAF8;
+}
